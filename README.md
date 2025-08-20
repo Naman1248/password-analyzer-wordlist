@@ -20,7 +20,7 @@ Features
 
 Installation
 
-    git clone <your_repo_url>
+    git clone https://github.com/Naman1248/password-analyzer-wordlist.git
     cd password-tool
     python -m venv .venv
     source .venv/bin/activate   # Windows: .venv\Scripts\activate
